@@ -1,0 +1,6 @@
+C:\Users\Richard\Code\C# Basics\Arrays.Program\Arrays.Program\obj\Debug\Arrays.Program.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Code\C# Basics\Arrays.Program\Arrays.Program\bin\Debug\Arrays.Program.exe.config
+C:\Users\Richard\Code\C# Basics\Arrays.Program\Arrays.Program\bin\Debug\Arrays.Program.exe
+C:\Users\Richard\Code\C# Basics\Arrays.Program\Arrays.Program\bin\Debug\Arrays.Program.pdb
+C:\Users\Richard\Code\C# Basics\Arrays.Program\Arrays.Program\obj\Debug\Arrays.Program.exe
+C:\Users\Richard\Code\C# Basics\Arrays.Program\Arrays.Program\obj\Debug\Arrays.Program.pdb

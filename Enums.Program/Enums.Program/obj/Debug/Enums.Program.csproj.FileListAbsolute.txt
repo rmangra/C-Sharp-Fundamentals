@@ -1,0 +1,6 @@
+C:\Users\Richard\Code\C# Basics\Enums.Program\Enums.Program\bin\Debug\Enums.Program.exe.config
+C:\Users\Richard\Code\C# Basics\Enums.Program\Enums.Program\bin\Debug\Enums.Program.exe
+C:\Users\Richard\Code\C# Basics\Enums.Program\Enums.Program\bin\Debug\Enums.Program.pdb
+C:\Users\Richard\Code\C# Basics\Enums.Program\Enums.Program\obj\Debug\Enums.Program.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Code\C# Basics\Enums.Program\Enums.Program\obj\Debug\Enums.Program.exe
+C:\Users\Richard\Code\C# Basics\Enums.Program\Enums.Program\obj\Debug\Enums.Program.pdb

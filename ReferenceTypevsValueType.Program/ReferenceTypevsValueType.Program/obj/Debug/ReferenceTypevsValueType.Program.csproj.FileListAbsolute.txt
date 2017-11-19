@@ -1,0 +1,6 @@
+C:\Users\Richard\Code\C# Basics\ReferenceTypevsValueType.Program\ReferenceTypevsValueType.Program\bin\Debug\ReferenceTypevsValueType.Program.exe.config
+C:\Users\Richard\Code\C# Basics\ReferenceTypevsValueType.Program\ReferenceTypevsValueType.Program\bin\Debug\ReferenceTypevsValueType.Program.exe
+C:\Users\Richard\Code\C# Basics\ReferenceTypevsValueType.Program\ReferenceTypevsValueType.Program\bin\Debug\ReferenceTypevsValueType.Program.pdb
+C:\Users\Richard\Code\C# Basics\ReferenceTypevsValueType.Program\ReferenceTypevsValueType.Program\obj\Debug\ReferenceTypevsValueType.Program.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Code\C# Basics\ReferenceTypevsValueType.Program\ReferenceTypevsValueType.Program\obj\Debug\ReferenceTypevsValueType.Program.exe
+C:\Users\Richard\Code\C# Basics\ReferenceTypevsValueType.Program\ReferenceTypevsValueType.Program\obj\Debug\ReferenceTypevsValueType.Program.pdb

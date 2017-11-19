@@ -1,0 +1,6 @@
+C:\Users\Richard\Code\C# Basics\Strings.Program\Strings.Program\bin\Debug\Strings.Program.exe.config
+C:\Users\Richard\Code\C# Basics\Strings.Program\Strings.Program\bin\Debug\Strings.Program.exe
+C:\Users\Richard\Code\C# Basics\Strings.Program\Strings.Program\bin\Debug\Strings.Program.pdb
+C:\Users\Richard\Code\C# Basics\Strings.Program\Strings.Program\obj\Debug\Strings.Program.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Code\C# Basics\Strings.Program\Strings.Program\obj\Debug\Strings.Program.exe
+C:\Users\Richard\Code\C# Basics\Strings.Program\Strings.Program\obj\Debug\Strings.Program.pdb
