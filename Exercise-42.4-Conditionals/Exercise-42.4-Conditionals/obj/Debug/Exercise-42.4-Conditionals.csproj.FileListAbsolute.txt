@@ -1,0 +1,6 @@
+C:\Users\Richard\Code\C# Basics\Exercise-42.4-Conditionals\Exercise-42.4-Conditionals\bin\Debug\Exercise-42.4-Conditionals.exe.config
+C:\Users\Richard\Code\C# Basics\Exercise-42.4-Conditionals\Exercise-42.4-Conditionals\bin\Debug\Exercise-42.4-Conditionals.exe
+C:\Users\Richard\Code\C# Basics\Exercise-42.4-Conditionals\Exercise-42.4-Conditionals\bin\Debug\Exercise-42.4-Conditionals.pdb
+C:\Users\Richard\Code\C# Basics\Exercise-42.4-Conditionals\Exercise-42.4-Conditionals\obj\Debug\Exercise-42.4-Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Code\C# Basics\Exercise-42.4-Conditionals\Exercise-42.4-Conditionals\obj\Debug\Exercise-42.4-Conditionals.exe
+C:\Users\Richard\Code\C# Basics\Exercise-42.4-Conditionals\Exercise-42.4-Conditionals\obj\Debug\Exercise-42.4-Conditionals.pdb
