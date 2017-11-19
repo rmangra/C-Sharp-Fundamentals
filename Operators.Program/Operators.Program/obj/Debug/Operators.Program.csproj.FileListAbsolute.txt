@@ -1,0 +1,7 @@
+C:\Users\Richard\Code\C# Basics\Operators.Program\Operators.Program\bin\Debug\Operators.Program.exe.config
+C:\Users\Richard\Code\C# Basics\Operators.Program\Operators.Program\bin\Debug\Operators.Program.exe
+C:\Users\Richard\Code\C# Basics\Operators.Program\Operators.Program\bin\Debug\Operators.Program.pdb
+C:\Users\Richard\Code\C# Basics\Operators.Program\Operators.Program\obj\Debug\Operators.Program.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Code\C# Basics\Operators.Program\Operators.Program\obj\Debug\Operators.Program.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Code\C# Basics\Operators.Program\Operators.Program\obj\Debug\Operators.Program.exe
+C:\Users\Richard\Code\C# Basics\Operators.Program\Operators.Program\obj\Debug\Operators.Program.pdb
