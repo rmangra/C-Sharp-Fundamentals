@@ -1,0 +1,7 @@
+C:\Users\Richard\Code\C# Basics\Conditionals.Program\Conditionals.Program\bin\Debug\Conditionals.Program.exe.config
+C:\Users\Richard\Code\C# Basics\Conditionals.Program\Conditionals.Program\bin\Debug\Conditionals.Program.exe
+C:\Users\Richard\Code\C# Basics\Conditionals.Program\Conditionals.Program\bin\Debug\Conditionals.Program.pdb
+C:\Users\Richard\Code\C# Basics\Conditionals.Program\Conditionals.Program\obj\Debug\Conditionals.Program.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Code\C# Basics\Conditionals.Program\Conditionals.Program\obj\Debug\Conditionals.Program.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Code\C# Basics\Conditionals.Program\Conditionals.Program\obj\Debug\Conditionals.Program.exe
+C:\Users\Richard\Code\C# Basics\Conditionals.Program\Conditionals.Program\obj\Debug\Conditionals.Program.pdb
