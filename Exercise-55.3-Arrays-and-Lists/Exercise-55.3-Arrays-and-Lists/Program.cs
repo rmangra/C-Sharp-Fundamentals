@@ -31,6 +31,7 @@ namespace Exercise_55._3_Arrays_and_Lists
 
             foreach (var number in numbers)
                 Console.WriteLine(number);
+
         }
     }
 }
