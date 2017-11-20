@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Exercise_55._5_Arrays_and_Lists
 {
@@ -29,6 +26,17 @@ namespace Exercise_55._5_Arrays_and_Lists
 
                 Console.WriteLine("Invalid List");
             }
+
+            var numbers = new List<int>();
+            foreach (var number in items)
+                numbers.Add(Convert.ToInt32(number));
+
+            numbers.Sort();
+
+            Console.Write("The 3 smallest numbers are: ");
+            for (var i = 0; i < 3; i++)
+                Console.Write(numbers[i] + " ");
+            Console.WriteLine();
         }
     }
 }
