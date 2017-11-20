@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Directory_and_DirectoryInfo
 {
@@ -13,8 +9,19 @@ namespace Directory_and_DirectoryInfo
         {
             Directory.CreateDirectory(@"c:\temp\folder1");
 
-            var files = Directory.GetFiles(@"c:\projects\CSharpFundamentals", "*.*", SearchOption.AllDirectories);
+           /* var files = Directory.GetFiles(@"c:\users\Richard\code\", "*.sln", SearchOption.AllDirectories);
+            foreach (var file in files)
+                Console.WriteLine(file);*/
+            
+            var directories = Directory.GetDirectories(@"c:\users\Richard\code\", "*.*", SearchOption.AllDirectories);
+            foreach (var directory in directories)
+                Console.WriteLine(directory);
 
+            Directory.Exists("...");
+
+            var directoryInfo = new DirectoryInfo("...");
+            directoryInfo.GetFiles();
+            directoryInfo.GetDirectories();
         }
     }
 }
