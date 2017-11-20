@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SummarizingText
 {
@@ -14,7 +10,5 @@ namespace SummarizingText
             var summary = StringUtility.SummarizeText(sentence, 25);
             Console.WriteLine(summary);
         }
-
-        
     }
 }
