@@ -15,7 +15,12 @@ namespace Exercise_55._2_Arrays_and_Lists
         static void Main(string[] args)
         {
             Console.Write("Please enter your name: ");
-            var name = Console.ReadLine();
+            var name = Console.ReadLine().ToCharArray();
+
+            Array.Reverse(name);
+
+            var reversed = new string(name);
+            Console.WriteLine("Reversed name: " + reversed);
         }
     }
 }
