@@ -1,0 +1,7 @@
+C:\Users\Richard\Code\C# Basics\Exercise-48.3-Loops\Exercise-48.3-Loops\bin\Debug\Exercise-48.3-Loops.exe.config
+C:\Users\Richard\Code\C# Basics\Exercise-48.3-Loops\Exercise-48.3-Loops\bin\Debug\Exercise-48.3-Loops.exe
+C:\Users\Richard\Code\C# Basics\Exercise-48.3-Loops\Exercise-48.3-Loops\bin\Debug\Exercise-48.3-Loops.pdb
+C:\Users\Richard\Code\C# Basics\Exercise-48.3-Loops\Exercise-48.3-Loops\obj\Debug\Exercise-48.3-Loops.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Code\C# Basics\Exercise-48.3-Loops\Exercise-48.3-Loops\obj\Debug\Exercise-48.3-Loops.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Code\C# Basics\Exercise-48.3-Loops\Exercise-48.3-Loops\obj\Debug\Exercise-48.3-Loops.exe
+C:\Users\Richard\Code\C# Basics\Exercise-48.3-Loops\Exercise-48.3-Loops\obj\Debug\Exercise-48.3-Loops.pdb
