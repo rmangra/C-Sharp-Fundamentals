@@ -25,6 +25,17 @@ namespace Exercise_55._4_Arrays_and_Lists
 
                 numbers.Add(Convert.ToInt32(input));
             }
+
+            var uniques = new List<int>();
+            foreach (var number in numbers)
+            {
+                if (!uniques.Contains(number))
+                    uniques.Add(number);
+            }
+
+            Console.WriteLine("Here are the unique numbers you entered: ");
+            foreach (var number in uniques)
+                Console.WriteLine(number);
         }
     }
 }
