@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Exercise_55._3_Arrays_and_Lists
 {
@@ -15,10 +12,11 @@ namespace Exercise_55._3_Arrays_and_Lists
         static void Main(string[] args)
         {
             var numbers = new List<int>();
-
-            while (numbers.Count < 5)
+            const int limit = 5;
+            
+            while (numbers.Count < limit)
             {
-                Console.Write("Enter five different numbers (one per line): ");
+                Console.Write("Enter " + limit + " different numbers (one per line): ");
                 var number = Convert.ToInt32(Console.ReadLine());
                 if (numbers.Contains(number))
                 {
@@ -29,6 +27,10 @@ namespace Exercise_55._3_Arrays_and_Lists
                 numbers.Add(number);
             }
 
+            numbers.Sort();
+
+            foreach (var number in numbers)
+                Console.WriteLine(number);
         }
     }
 }
